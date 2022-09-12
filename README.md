@@ -1,1 +1,1 @@
-# Realtime-Saslary-Prediction
+# Realtime-Salary-Prediction
